@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "eval-fls-001",
+    "unitId": "fls-tecnologico",
+    "unitName": "Tecnológico",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-08",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Tecnológico",
+    "generalScore": 78,
+    "totalPointsAchieved": 78,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-tecnologico-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-tecnologico-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-tecnologico-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-tecnologico-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-tecnologico-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-tecnologico-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-tecnologico-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-tecnologico-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-tecnologico-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-tecnologico-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-08). Calificación obtenida: 78/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-0-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Tecnológico",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-08 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-0-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Tecnológico",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-08 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-002",
+    "unitId": "fls-universidad",
+    "unitName": "Universidad",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-09",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Universidad",
+    "generalScore": 81,
+    "totalPointsAchieved": 81,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-universidad-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-universidad-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-universidad-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-universidad-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-universidad-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-universidad-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-universidad-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-universidad-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-universidad-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-universidad-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-09). Calificación obtenida: 81/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-1-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Universidad",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-09 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-1-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Universidad",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-09 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-003",
+    "unitId": "fls-lanoria",
+    "unitName": "La Noria",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-10",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor La Noria",
+    "generalScore": 89,
+    "totalPointsAchieved": 89,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-lanoria-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-lanoria-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-lanoria-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-lanoria-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-lanoria-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-lanoria-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-lanoria-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-lanoria-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-lanoria-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-lanoria-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-10). Calificación obtenida: 89/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-2-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación La Noria",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-10 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-2-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación La Noria",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-10 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-004",
+    "unitId": "fls-sanjuandelrio",
+    "unitName": "San Juan del Río",
+    "brand": "Flash",
+    "zone": "San Juan del Río",
+    "evaluationDate": "2026-09-11",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor San Juan del Río",
+    "generalScore": 94,
+    "totalPointsAchieved": 94,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-sanjuandelrio-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-sanjuandelrio-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-11). Calificación obtenida: 94/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-3-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación San Juan del Río",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-11 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-3-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación San Juan del Río",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-11 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-005",
+    "unitId": "fls-loscues",
+    "unitName": "Los Cues",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-12",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Los Cues",
+    "generalScore": 83,
+    "totalPointsAchieved": 83,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-loscues-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-loscues-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-loscues-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-loscues-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-loscues-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-loscues-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-loscues-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-loscues-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-loscues-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-loscues-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-12). Calificación obtenida: 83/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-4-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Los Cues",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-12 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-4-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Los Cues",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-12 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-006",
+    "unitId": "fls-junipero",
+    "unitName": "Junípero",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-13",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Junípero",
+    "generalScore": 88,
+    "totalPointsAchieved": 88,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-junipero-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-junipero-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-junipero-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-junipero-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-junipero-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-junipero-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-junipero-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-junipero-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-junipero-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-junipero-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-13). Calificación obtenida: 88/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-5-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Junípero",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-13 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-5-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Junípero",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-13 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-007",
+    "unitId": "fls-pueblito",
+    "unitName": "Pueblito",
+    "brand": "Flash",
+    "zone": "Corregidora",
+    "evaluationDate": "2026-09-14",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Pueblito",
+    "generalScore": 95,
+    "totalPointsAchieved": 95,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-pueblito-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-pueblito-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 15,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-pueblito-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-pueblito-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-pueblito-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-pueblito-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-pueblito-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-pueblito-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-pueblito-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-pueblito-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 15,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-14). Calificación obtenida: 95/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-6-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Pueblito",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-14 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-6-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Pueblito",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-14 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-008",
+    "unitId": "fls-puntaesmeralda",
+    "unitName": "Punta Esmeralda",
+    "brand": "Flash",
+    "zone": "Corregidora",
+    "evaluationDate": "2026-09-15",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Punta Esmeralda",
+    "generalScore": 80,
+    "totalPointsAchieved": 80,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-puntaesmeralda-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-puntaesmeralda-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-15). Calificación obtenida: 80/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-7-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Punta Esmeralda",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-15 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-7-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Punta Esmeralda",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-15 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-009",
+    "unitId": "fls-angeles",
+    "unitName": "Angeles",
+    "brand": "Flash",
+    "zone": "Corregidora",
+    "evaluationDate": "2026-09-16",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Angeles",
+    "generalScore": 82,
+    "totalPointsAchieved": 82,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-angeles-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-angeles-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-angeles-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-angeles-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-angeles-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-angeles-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-angeles-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-angeles-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-angeles-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-angeles-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-16). Calificación obtenida: 82/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-8-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Angeles",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-16 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-8-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Angeles",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-16 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-010",
+    "unitId": "fls-sma1",
+    "unitName": "San Miguel de Allende 1",
+    "brand": "Flash",
+    "zone": "San Miguel de Allende",
+    "evaluationDate": "2026-09-17",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor San Miguel de Allende 1",
+    "generalScore": 89,
+    "totalPointsAchieved": 89,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-sma1-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-sma1-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-sma1-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-sma1-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-sma1-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-sma1-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-sma1-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-sma1-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-sma1-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-sma1-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-17). Calificación obtenida: 89/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-9-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación San Miguel de Allende 1",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-17 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-9-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación San Miguel de Allende 1",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-17 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-011",
+    "unitId": "fls-sma2",
+    "unitName": "San Miguel de Allende 2",
+    "brand": "Flash",
+    "zone": "San Miguel de Allende",
+    "evaluationDate": "2026-09-18",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor San Miguel de Allende 2",
+    "generalScore": 95,
+    "totalPointsAchieved": 95,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-sma2-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-sma2-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-sma2-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-sma2-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-sma2-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-sma2-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-sma2-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-sma2-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-sma2-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-sma2-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-18). Calificación obtenida: 95/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-10-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación San Miguel de Allende 2",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-18 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-10-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación San Miguel de Allende 2",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-18 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-012",
+    "unitId": "fls-palmillas",
+    "unitName": "Palmillas",
+    "brand": "Flash",
+    "zone": "San Juan del Río",
+    "evaluationDate": "2026-09-19",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Palmillas",
+    "generalScore": 83,
+    "totalPointsAchieved": 83,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-palmillas-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-palmillas-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-palmillas-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-palmillas-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-palmillas-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-palmillas-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-palmillas-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-palmillas-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-palmillas-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-palmillas-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-19). Calificación obtenida: 83/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-11-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Palmillas",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-19 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-11-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Palmillas",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-19 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-013",
+    "unitId": "fls-estadiocdmx",
+    "unitName": "Estadio CDMX",
+    "brand": "Flash",
+    "zone": "CDMX",
+    "evaluationDate": "2026-09-20",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Estadio CDMX",
+    "generalScore": 89,
+    "totalPointsAchieved": 89,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-estadiocdmx-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-estadiocdmx-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-estadiocdmx-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-estadiocdmx-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-estadiocdmx-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-estadiocdmx-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-estadiocdmx-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-estadiocdmx-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-estadiocdmx-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-estadiocdmx-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-20). Calificación obtenida: 89/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-12-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Estadio CDMX",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-20 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-12-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Estadio CDMX",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-20 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-014",
+    "unitId": "fls-macarmexcdmx",
+    "unitName": "Macarmex CDMX",
+    "brand": "Flash",
+    "zone": "CDMX",
+    "evaluationDate": "2026-09-21",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Macarmex CDMX",
+    "generalScore": 96,
+    "totalPointsAchieved": 96,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-macarmexcdmx-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 15,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 15,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-macarmexcdmx-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 15,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-21). Calificación obtenida: 96/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-13-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Macarmex CDMX",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-21 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-13-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Macarmex CDMX",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-21 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-015",
+    "unitId": "fls-juriquilla",
+    "unitName": "Juriquilla",
+    "brand": "Flash",
+    "zone": "Zona Norte",
+    "evaluationDate": "2026-09-22",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Juriquilla",
+    "generalScore": 83,
+    "totalPointsAchieved": 83,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-juriquilla-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-juriquilla-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-juriquilla-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-juriquilla-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-juriquilla-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-juriquilla-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-juriquilla-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-juriquilla-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-juriquilla-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-juriquilla-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-22). Calificación obtenida: 83/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-14-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Juriquilla",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-22 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-14-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Juriquilla",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-22 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-016",
+    "unitId": "fls-sma3",
+    "unitName": "San Miguel de Allende 3",
+    "brand": "Flash",
+    "zone": "San Miguel de Allende",
+    "evaluationDate": "2026-09-23",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor San Miguel de Allende 3",
+    "generalScore": 84,
+    "totalPointsAchieved": 84,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-sma3-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-sma3-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-sma3-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-sma3-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-sma3-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-sma3-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-sma3-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-sma3-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-sma3-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-sma3-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-23). Calificación obtenida: 84/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-15-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación San Miguel de Allende 3",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-23 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-15-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación San Miguel de Allende 3",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-23 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-017",
+    "unitId": "fls-ecatepec2",
+    "unitName": "Ecatepec 2",
+    "brand": "Flash",
+    "zone": "Estado de México",
+    "evaluationDate": "2026-09-24",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor Ecatepec 2",
+    "generalScore": 90,
+    "totalPointsAchieved": 90,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-ecatepec2-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-ecatepec2-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-ecatepec2-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-ecatepec2-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-ecatepec2-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-ecatepec2-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-ecatepec2-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-ecatepec2-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-ecatepec2-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-ecatepec2-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-24). Calificación obtenida: 90/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-16-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Ecatepec 2",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-24 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-16-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Ecatepec 2",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-24 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  },
+  {
+    "id": "eval-fls-018",
+    "unitId": "fls-huimilpan",
+    "unitName": "Huimilpan",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-25",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Huimilpan",
+    "generalScore": 78,
+    "totalPointsAchieved": 78,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-huimilpan-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-huimilpan-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-huimilpan-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-huimilpan-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-huimilpan-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-huimilpan-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-huimilpan-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-huimilpan-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 11,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-huimilpan-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-huimilpan-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-25). Calificación obtenida: 78/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-17-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Huimilpan",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-25 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-17-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Huimilpan",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-25 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-019",
+    "unitId": "fls-lagriega",
+    "unitName": "La Griega",
+    "brand": "Flash",
+    "zone": "Bajío",
+    "evaluationDate": "2026-09-26",
+    "auditorName": "Nick (Responsable)",
+    "storeReceivedBy": "Supervisor La Griega",
+    "generalScore": 83,
+    "totalPointsAchieved": 83,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-lagriega-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-lagriega-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-lagriega-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-lagriega-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-lagriega-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-lagriega-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-lagriega-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-lagriega-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 12,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-lagriega-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-lagriega-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-26). Calificación obtenida: 83/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [
+      "Ofrecimiento sistemático de servicios complementarios (limpieza y niveles)"
+    ],
+    "evidences": [
+      {
+        "id": "ev-fls-18-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación La Griega",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-26 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-18-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación La Griega",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-26 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 1,
+    "hasPendingActions": true,
+    "status": "con_observaciones"
+  },
+  {
+    "id": "eval-fls-020",
+    "unitId": "fls-ecatepec1",
+    "unitName": "Ecatepec 1",
+    "brand": "Flash",
+    "zone": "Estado de México",
+    "evaluationDate": "2026-09-27",
+    "auditorName": "Daniel (Responsable)",
+    "storeReceivedBy": "Supervisor Ecatepec 1",
+    "generalScore": 90,
+    "totalPointsAchieved": 90,
+    "totalPointsMax": 100,
+    "criteriaBreakdown": [
+      {
+        "id": "c-fls-ecatepec1-0",
+        "name": "Atención inmediata del lado del conductor (menos de 1 min / contacto visual)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Despachador acudió en 35 segundos con contacto visual"
+      },
+      {
+        "id": "c-fls-ecatepec1-1",
+        "name": "Bienvenida con actitud amable, respetuosa y hospitalaria",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Saludo con amabilidad y calidez"
+      },
+      {
+        "id": "c-fls-ecatepec1-2",
+        "name": "Pregunta y promoción de la app FLASH ELITE (invitación a descargar o redimir/acumular)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Invitó a acumular puntos en Flash Elite"
+      },
+      {
+        "id": "c-fls-ecatepec1-3",
+        "name": "Consulta sobre producto a cargar y monto (pesos o litros)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Confirmó producto y display en ceros"
+      },
+      {
+        "id": "c-fls-ecatepec1-4",
+        "name": "Ofrecimiento de servicios complementarios (limpieza de parabrisas, llantas, armor all o niveles)",
+        "maxPoints": 5,
+        "achievedPoints": 5,
+        "notes": "Limpió parabrisas delantero y ofreció checar aceite"
+      },
+      {
+        "id": "c-fls-ecatepec1-5",
+        "name": "Ofrecimiento de promoción \"Impacto\" o promociones periféricas vigentes",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mencionó promoción de aditivo en bomba"
+      },
+      {
+        "id": "c-fls-ecatepec1-6",
+        "name": "Cobro y pregunta sobre requerimiento de ticket o factura",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Ofreció comprobante o factura electrónica"
+      },
+      {
+        "id": "c-fls-ecatepec1-7",
+        "name": "Emisión ágil de factura (si el cliente la solicita, de 1 a 3 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 13,
+        "notes": "Facturación en terminal móvil en 1m 20s"
+      },
+      {
+        "id": "c-fls-ecatepec1-8",
+        "name": "Confirmación de puntos generados en la app Flash Elite",
+        "maxPoints": 5,
+        "achievedPoints": 4,
+        "notes": "Mostró puntos acumulados en comprobante"
+      },
+      {
+        "id": "c-fls-ecatepec1-9",
+        "name": "Despedida cordial, invitación a regresar y tiempo total de servicio (máx. 4 minutos)",
+        "maxPoints": 15,
+        "achievedPoints": 14,
+        "notes": "Despacho completo en 3m 15s con despedida amable"
+      }
+    ],
+    "generalComments": "Evaluación de protocolo Flash en isla y facturación (2026-09-27). Calificación obtenida: 90/100 pts.",
+    "strengths": [
+      "Atención inmediata del lado del conductor y bienvenida amable",
+      "Facturación ágil en terminal de despacho móvil"
+    ],
+    "deviations": [],
+    "evidences": [
+      {
+        "id": "ev-fls-19-1",
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+        "title": "Isla y tótem de despacho - Estación Ecatepec 1",
+        "criterionName": "Atención inmediata del lado del conductor",
+        "timestamp": "2026-09-27 10:15",
+        "notes": "Auditoría en isla operativa."
+      },
+      {
+        "id": "ev-fls-19-2",
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "title": "Video de protocolo de servicio Flash Elite - Estación Ecatepec 1",
+        "criterionName": "Pregunta y promoción de la app FLASH ELITE",
+        "timestamp": "2026-09-27 10:30",
+        "duration": "1:05 min",
+        "notes": "Registro de puntos y bienvenida respetuosa."
+      }
+    ],
+    "followUpActionsCount": 0,
+    "hasPendingActions": false,
+    "status": "completada"
+  }
+]

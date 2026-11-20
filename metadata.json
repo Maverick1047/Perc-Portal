@@ -1,0 +1,6 @@
+{
+  "name": "PercPortal - Evaluaciones y Operación",
+  "description": "Plataforma interna para centralizar, consultar y analizar evaluaciones de servicio al cliente y operación de Tiendas Asturiano y Estaciones Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
